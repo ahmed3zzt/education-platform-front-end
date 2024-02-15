@@ -6,7 +6,7 @@
     <div class="card w-full md:w-[48%] lg:w-[32.333%] mt-4  bg-base-100 shadow-xl">
   <figure><img src="https://placehold.co/600x400" alt="Shoes" /></figure>
   <div class="card-body">
-    <h2 class="card-title text-2xl text-primary">الشهر الاول اولي ثانوي</h2>
+    <router-link to="/courses/course-one" class="card-title text-2xl text-primary">الشهر الاول اولي ثانوي</router-link>
     <p class="text-base-content">شرح كامل الوحدتين الاولي والثانيه الصف الاول الثانوي</p>
     
     <p>بواسطه <span class="text-primary">محمد السيد</span></p>
